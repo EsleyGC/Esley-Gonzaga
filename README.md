@@ -3,11 +3,14 @@
 
 ## Technical skills:
 Software experience: Windows, Visual Studio Code, Rider, Fmod, Blender, Photoshop, TexturePacker, DaVinci Resolve, GitHub Desktop, Cubase.
+
 Gameplay programming: Implementation of combat system, artificial intelligence, pathfinding for 3d or platformer, UI game system implementation, combo system, particle effects,
 weapon, armor and stats based damage system, rope system, procedural level generation.
+
+Other Game Development experiences: Steam SDK and Steam Store, memory management, Visual Programming(Bolt), Co-op Split Screen mulltiplayer, new Unity UI system.
 Familiarity with Unity Engine and with his packages.
 
-## Previous projects experiences: 
+## Previous projects experiences:
 ### Black Onix Interactive
 Role: Main programmer and main game designer
 A beat'em up project with ~10 professionals with different skills. 2.5D with hand drawn animations and stylized scenarios.
