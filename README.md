@@ -11,7 +11,7 @@ Other Game Development experiences: Steam SDK and Steam Store, memory management
 Familiarity with Unity Engine and with his packages.
 
 ## Previous projects experiences:
-### Black Onix Interactive
+### Black Onyx Interactive
 Role: Main programmer and main game designer
 A beat'em up project with ~10 professionals with different skills. 2.5D with hand drawn animations and stylized scenarios.
 
