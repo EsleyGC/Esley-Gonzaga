@@ -25,6 +25,9 @@ Dragons Dogma, Age of Empires 2, Exanima, Arma 3, Bomberman, DRAGON BALL BUDOKAI
 ## Some projects gifs:
 ### Dwarf Prison, rogue-lite with innovative mechanics focused on intelligent combat and exploration. Acting as main programmer / game designer / composer and sound designer.
 
+Early footage on Youtube:
+https://youtu.be/8FaIfi-eHhw
+
 ![](Gifs/DwarfPrison-GIF.gif)![](Gifs/DwarfPrison-GIF-2.gif)
 ![](Gifs/DwarfPrison-GIF-3.gif)![](Gifs/DwarfPrison-GIF-4.gif)
 ![](https://media.giphy.com/media/Qruh2muzd8Rn5Z43K3/giphy.gif)
